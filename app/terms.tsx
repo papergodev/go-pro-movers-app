@@ -14,14 +14,14 @@ export default function Terms() {
           <View style={styles.section}>
             <Text style={styles.heading}>1. Acceptance of Terms</Text>
             <Text style={styles.text}>
-              Thank you for using the Paper Go application. These Terms of Use, together with the Paper Go Privacy Policy, apply to all users who visit, browse, create, share, upload, or download documents via the App. By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
+              Thank you for using the Go Pro Movers application. These Terms of Use, together with the Go Pro Movers Privacy Policy, apply to all users who visit, browse, create, share, upload, or download documents via the App. By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
             </Text>
           </View>
 
           <View style={styles.section}>
             <Text style={styles.heading}>2. Scope of Services</Text>
             <Text style={styles.text}>
-              Paper Go provides a digital platform for Packers and Movers and Relocation Service Providers to generate Bilties (Lorry Receipts), Quotations, Bills, and Goods Lists online. The app allows you to send these documents directly to clients to save time and streamline business operations.
+              Go Pro Movers provides a digital platform for Packers and Movers and Relocation Service Providers to generate Bilties (Lorry Receipts), Quotations, Bills, and Goods Lists online. The app allows you to send these documents directly to clients to save time and streamline business operations.
             </Text>
           </View>
 
@@ -33,7 +33,7 @@ export default function Terms() {
               • Violate any applicable local or national laws.{"\n"}
               • Infringe upon any patent, trademark, copyright, or proprietary rights.{"\n"}
               • Make available viruses or code designed to interrupt or destroy the app's functionality.{"\n"}
-              • Interfere with or disrupt the servers or networks connected to Paper Go.
+              • Interfere with or disrupt the servers or networks connected to Go Pro Movers.
             </Text>
           </View>
 
@@ -47,7 +47,7 @@ export default function Terms() {
           <View style={styles.section}>
             <Text style={styles.heading}>5. Limitation of Liability</Text>
             <Text style={styles.text}>
-              Go Pro Movers and the Paper Go app:{"\n"}
+              Go Pro Movers and the Go Pro Movers app:{"\n"}
               • Take no responsibility for the pricing, payment terms, or contracts entered into between you (the service provider) and your consignors/consignees or vehicle owners.{"\n"}
               • Shall not be liable for any disputes regarding quantity, quality, packing, or damages of goods transported.{"\n"}
               • Shall not be liable for late pickups, deliveries, or waiting charges.{"\n"}
@@ -58,7 +58,7 @@ export default function Terms() {
           <View style={styles.section}>
             <Text style={styles.heading}>6. Intellectual Property</Text>
             <Text style={styles.text}>
-              The Paper Go name, logo, graphics, and services are trademarks of Go Pro Movers. You may not copy, imitate, or use them in whole or in part without prior written permission.
+              The Go Pro Movers name, logo, graphics, and services are trademarks of Go Pro Movers. You may not copy, imitate, or use them in whole or in part without prior written permission.
             </Text>
           </View>
 

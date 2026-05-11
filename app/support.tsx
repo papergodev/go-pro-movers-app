@@ -6,7 +6,7 @@ import { Feather } from '@expo/vector-icons';
 
 export default function Support() {
   const handleEmailSupport = () => {
-    Linking.openURL('mailto:papergo.dev@gmail.com?subject=Paper Go Support Request');
+    Linking.openURL('mailto:papergo.dev@gmail.com?subject=Go Pro Movers Support Request');
   };
 
   return (
@@ -18,7 +18,7 @@ export default function Support() {
 
           {/* VISUAL GUIDE / SCREENSHOTS SECTION */}
           <View style={styles.section}>
-            <Text style={styles.heading}>How to use Paper Go</Text>
+            <Text style={styles.heading}>How to use Go Pro Movers</Text>
             <Text style={styles.text}>Swipe to see the quick workflow guide:</Text>
             
             <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.carouselContainer}>
@@ -67,7 +67,7 @@ export default function Support() {
           <View style={[styles.section, { borderBottomWidth: 0, marginBottom: 0 }]}>
             <Text style={styles.heading}>Account & Data Deletion</Text>
             <Text style={styles.text}>
-              If you wish to delete your Paper Go account and permanently erase all associated data (including Quotations, Invoices, and LR records), please send an email to our support team with the subject line "Account Deletion Request".
+              If you wish to delete your Go Pro Movers account and permanently erase all associated data (including Quotations, Invoices, and LR records), please send an email to our support team with the subject line "Account Deletion Request".
             </Text>
             <Text style={[styles.text, { marginTop: 10 }]}>
               Please include the phone number registered with your account. Data deletion requests are processed and wiped from our servers within 48 hours.

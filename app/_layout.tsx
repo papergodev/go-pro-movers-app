@@ -41,8 +41,8 @@ export default function RootLayout() {
       <View style={styles.navbar}>
         <Link href="/" style={{ textDecorationLine: 'none' }}>
           <View style={styles.logoRow}>
-            <Text style={styles.brandPaper}>Paper </Text>
-            <Text style={styles.brandGo}>Go</Text>
+            <Text style={styles.brandPaper}>Go Pro </Text>
+            <Text style={styles.brandGo}>Movers</Text>
             <View style={styles.dot} />
           </View>
         </Link>

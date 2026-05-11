@@ -14,7 +14,7 @@ export default function Privacy() {
           <View style={styles.section}>
             <Text style={styles.heading}>1. Introduction</Text>
             <Text style={styles.text}>
-              This Privacy Policy is an Electronic Record in the form of an Electronic Contract in accordance with the Information Technology Act, 2000 and the amended provisions pertaining to electronic records. This document describes the policies and procedures on the collection, use, disclosure, and protection of your information when you use the Paper Go mobile application made available by Go Pro Movers, located in Navi Mumbai, Maharashtra, India. By using the app, you agree to be legally bound by this Privacy Policy.
+              This Privacy Policy is an Electronic Record in the form of an Electronic Contract in accordance with the Information Technology Act, 2000 and the amended provisions pertaining to electronic records. This document describes the policies and procedures on the collection, use, disclosure, and protection of your information when you use the Go Pro Movers mobile application made available by Go Pro Movers, located in Navi Mumbai, Maharashtra, India. By using the app, you agree to be legally bound by this Privacy Policy.
             </Text>
           </View>
 
